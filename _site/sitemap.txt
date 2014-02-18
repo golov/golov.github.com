@@ -1,0 +1,11 @@
+
+http://golov.me/archive.html
+http://golov.me/atom.xml
+http://golov.me/categories.html
+http://golov.me/index.html
+http://golov.me/pages.html
+http://golov.me/rss.xml
+http://golov.me/sitemap.txt
+http://golov.me/tags.html
+
+http://golov.me/lessons/2011/12/29/jekyll-introduction
