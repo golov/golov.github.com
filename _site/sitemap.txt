@@ -1,4 +1,5 @@
 
+http://golov.me/about.html
 http://golov.me/archive.html
 http://golov.me/atom.xml
 http://golov.me/categories.html
