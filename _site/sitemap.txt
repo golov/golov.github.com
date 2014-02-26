@@ -8,4 +8,4 @@ http://golov.me/rss.xml
 http://golov.me/sitemap.txt
 http://golov.me/tags.html
 
-http://golov.me/2014/02/25/new-post
+http://golov.me/2014/02/25/hello-world
