@@ -13,6 +13,7 @@ tagline: Site Tagline
 author :
   name : Peter Golov
   email : peter.golov@gmail.com
+  email_md5: 39d2e7c982a956ef236082b0f9955b8e
   github : golov
   twitter : golov
   # feedburner : feedname
@@ -82,11 +83,11 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : jekyllbootstrap
-    livefyre :
-      site_id : 123
-    intensedebate :
-      account : 123abc
+      short_name : golov
+    # livefyre :
+    #   site_id : 123
+    # intensedebate :
+    #   account : 123abc
     facebook :
       appid : 123
       num_posts: 5
