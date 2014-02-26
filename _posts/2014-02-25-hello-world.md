@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hello World!"
-description: ""
+fullview: true
 category: 
 tags: []
 ---
