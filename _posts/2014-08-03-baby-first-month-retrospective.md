@@ -49,6 +49,7 @@ Everything is new to you, and everything is scary. The baby WILL cry, have stoma
 
 What we could have done better
 ------------------------------
+
 ##### Time management
 It took us a while to realise how long it takes to get ready for anything. If you are going for a walk, you need to catch the right moment in the feeding cycle. If you have missed the point after he eats and falls asleep, you risk waking the baby as you move him to the buggy. This is the scariest thing for a parent, as this will often make the baby angry, and you don’t want to see him angry. So you wait for the next cycle.
 
