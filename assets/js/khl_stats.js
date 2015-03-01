@@ -23,8 +23,7 @@ $(function () {
       },
       tooltip: {
         formatter: function() {
-          console.log(this);
-          return 'Game: ' + this.x + 1 + ' Attendance: <b>' + this.y + '</b> (' + this.series.name + ')';
+          return 'Game: ' + (this.x + 1) + ' Attendance: <b>' + this.y + '</b> (' + this.series.name + ')';
         }
       },
       legend: {
