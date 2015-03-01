@@ -54,6 +54,17 @@ Good news! The average attendance this year was 6,422, an increase of 341 (5.6%)
   </tr>
 </table>
 
+Average attendance by team
+--------------------------
+
+<table id='team_attendance' class='table'>
+  <tr>
+    <th>Team</th>
+    <th>Average</th>
+    <th>Total attendance</th>
+  </tr>
+</table>
+
 New teams
 -------------------
 
