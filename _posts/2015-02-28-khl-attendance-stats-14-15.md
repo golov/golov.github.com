@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "KHL attendance stats 2014-15"
-description: ""
+description: "Regular season attendance analysis. Year on year increase of 341 fans a game, but is all as it seems???"
 category: 
 tags: [khl,graphs]
 customjs:
